@@ -1,0 +1,41 @@
+   Line Constants (.out ) output file.           
+   This file is over-written whenever the T-Line 
+   constants program is executed for this T-Line.
+     T-Line Constants Version = RTDS_1.0.2   
+ ================================================
+ ------------------------------------------------
+  Phase Domain Quantities at 0.001000 Hertz.
+ ------------------------------------------------
+ MATRICES INCLUDING ALL SIMULATED CONDUCTORS 
+ MATRIX DIMENSION = 2 
+
+    SERIES IMPEDANCE  (Z) matrix in Ohms/meter    
+  8.694351587e-006 +j  2.032563579e-008   9.945320296e-010 +j  1.626019066e-008 
+  9.945320296e-010 +j  1.626019066e-008   8.694351587e-006 +j  2.032563579e-008 
+
+    SHUNT  ADMITTANCE (Y) matrix in Siemens/meter 
+  8.237709491e-012 +j  1.372951582e-012   0.000000000e+000 +j  0.000000000e+000 
+  0.000000000e+000 +j  0.000000000e+000   8.237709491e-012 +j  1.372951582e-012 
+
+    LONG-LINE CORRECTED SERIES IMPEDANCE MATRIX in Ohms 
+  1.738871147e+000 +j  4.065269418e-003   1.989060710e-004 +j  3.252041269e-003 
+  1.989060710e-004 +j  3.252041269e-003   1.738871147e+000 +j  4.065269418e-003 
+
+    LONG-LINE CORRECTED SHUNT ADMITTANCE MATRIX in Siemens 
+  1.647541516e-006 +j  2.745901844e-007   2.014604844e-016 +j -7.301729658e-016 
+  2.014604844e-016 +j -7.301729658e-016   1.647541516e-006 +j  2.745901844e-007 
+
+
+  NOTE: No Sequence Y and Z matrices or RXB data
+         is provided because:    
+     -- the number of cable    true main power 
+         conductors is NOT evenly divisible by 3. 
+
+ ------------------------------------------------
+  Minimum Time delay for a Mode or               
+    Propogation Group and recommended time step. 
+ ------------------------------------------------
+
+    Minimum Time delay for the Line:    1014.704322 [uSec]
+    Recommended Time Step:               101.470432 [uSec]
+
