@@ -1,0 +1,1650 @@
+  VSC_Bridge 'VALVE_CSA3' in subsystem 1 has a small time-step size of 2.857143 us
+	this VSC Bridge has 21 small time-steps in each large time-step, required T2 data is copied at step 15
+  VSC_Bridge 'VALVE_CSA2' in subsystem 1 has a small time-step size of 2.857143 us
+	this VSC Bridge has 21 small time-steps in each large time-step, required T2 data is copied at step 15
+  VSC_Bridge 'VALVE_CSA4' in subsystem 1 has a small time-step size of 2.857143 us
+	this VSC Bridge has 21 small time-steps in each large time-step, required T2 data is copied at step 15
+  VSC_Bridge 'VALVE_CSA1' in subsystem 1 has a small time-step size of 2.857143 us
+	this VSC Bridge has 21 small time-steps in each large time-step, required T2 data is copied at step 15
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE0a
+    on processor: 6 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 11
+ Total number of H  complex poles = 0
+ Total number of H  real    poles = 6
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 33
+ Total number of XH  complex state variables = 0
+ Total number of XH  real    state variables = 18
+
+ Total X" state update and convolution multiplies  = 204
+ Total X" state update and convolution additions   = 204
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE0c
+    on processor: 5 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 11
+ Total number of H  complex poles = 0
+ Total number of H  real    poles = 6
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 33
+ Total number of XH  complex state variables = 0
+ Total number of XH  real    state variables = 18
+
+ Total X" state update and convolution multiplies  = 204
+ Total X" state update and convolution additions   = 204
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE1
+    on processor: 6 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 13
+ Total number of H  complex poles = 1
+ Total number of H  real    poles = 7
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 39
+ Total number of XH  complex state variables = 3
+ Total number of XH  real    state variables = 21
+
+ Total X" state update and convolution multiplies  = 270
+ Total X" state update and convolution additions   = 267
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE2a
+    on processor: 5 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 13
+ Total number of H  complex poles = 1
+ Total number of H  real    poles = 7
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 39
+ Total number of XH  complex state variables = 3
+ Total number of XH  real    state variables = 21
+
+ Total X" state update and convolution multiplies  = 270
+ Total X" state update and convolution additions   = 267
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE3a
+    on processor: 6 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 13
+ Total number of H  complex poles = 1
+ Total number of H  real    poles = 7
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 39
+ Total number of XH  complex state variables = 3
+ Total number of XH  real    state variables = 21
+
+ Total X" state update and convolution multiplies  = 270
+ Total X" state update and convolution additions   = 267
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE4a
+    on processor: 5 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 13
+ Total number of H  complex poles = 0
+ Total number of H  real    poles = 10
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 39
+ Total number of XH  complex state variables = 0
+ Total number of XH  real    state variables = 30
+
+ Total X" state update and convolution multiplies  = 276
+ Total X" state update and convolution additions   = 276
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE4b
+    on processor: 6 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 13
+ Total number of H  complex poles = 0
+ Total number of H  real    poles = 10
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 39
+ Total number of XH  complex state variables = 0
+ Total number of XH  real    state variables = 30
+
+ Total X" state update and convolution multiplies  = 276
+ Total X" state update and convolution additions   = 276
+ ========================================================================================
+
+
+ ========================================================================================
+  Component Model: Frequency-Dependant Phase-Domain Cable 
+    Model named: CABLE5a
+    on processor: 5 (range 0 to ... )
+    in subsystem: 1 (range 1 to ... ).
+    Cable Model Type = 1 which does the calculations for both terminals
+    and in which currents always lag voltages by one time-step.
+    The User may optionally set the Parameter "elimCrtLag" to "Yes" in which
+    case model type 4 will be used and currents will always be aligned
+    with voltages.
+
+ Number of conductors             = 3
+ Total number of Yc complex poles = 0
+ Total number of Yc real    poles = 13
+ Total number of H  complex poles = 1
+ Total number of H  real    poles = 7
+
+ Multiplication and addition statistics for one terminal only:
+ Total number of XYc complex state variables = 0
+ Total number of XYc real    state variables = 39
+ Total number of XH  complex state variables = 3
+ Total number of XH  real    state variables = 21
+
+ Total X" state update and convolution multiplies  = 270
+ Total X" state update and convolution additions   = 267
+ ========================================================================================
+
+
+   Scaling Transformer
+   named: WF12TR1A
+   within the box named: (null)
+   in subsystem: #1
+   is assigned to Core #6
+
+   At a tap factor of 1.0 and scaling factor of 1.0
+   there is a half effective capacitive
+   reactance connected between the
+   primary terminals of 2.920888e-004 uF or 1.089771e+007 Ohms.
+
+   Regardless of the tap factor, there is a half effective
+   capacitive reactance connected between the
+   secondary terminals of 3.846832e-003 uF or 8.274600e+005 Ohms.
+
+
+   Scaling Transformer
+   named: WF12TR1B
+   within the box named: (null)
+   in subsystem: #1
+   is assigned to Core #7
+
+   At a tap factor of 1.0 and scaling factor of 1.0
+   there is a half effective capacitive
+   reactance connected between the
+   primary terminals of 2.920888e-004 uF or 1.089771e+007 Ohms.
+
+   Regardless of the tap factor, there is a half effective
+   capacitive reactance connected between the
+   secondary terminals of 3.846832e-003 uF or 8.274600e+005 Ohms.
+
+
+   Scaling Transformer
+   named: WF12TR1C
+   within the box named: (null)
+   in subsystem: #1
+   is assigned to Core #6
+
+   At a tap factor of 1.0 and scaling factor of 1.0
+   there is a half effective capacitive
+   reactance connected between the
+   primary terminals of 2.920888e-004 uF or 1.089771e+007 Ohms.
+
+   Regardless of the tap factor, there is a half effective
+   capacitive reactance connected between the
+   secondary terminals of 3.846832e-003 uF or 8.274600e+005 Ohms.
+
+
+   Scaling Transformer
+   named: WF1TR1A
+   within the box named: (null)
+   in subsystem: #1
+   is assigned to Core #7
+
+   At a tap factor of 1.0 and scaling factor of 1.0
+   there is a half effective capacitive
+   reactance connected between the
+   primary terminals of 2.920888e-004 uF or 1.089771e+007 Ohms.
+
+   Regardless of the tap factor, there is a half effective
+   capacitive reactance connected between the
+   secondary terminals of 3.846832e-003 uF or 8.274600e+005 Ohms.
+
+
+   Scaling Transformer
+   named: WF1TR1B
+   within the box named: (null)
+   in subsystem: #1
+   is assigned to Core #6
+
+   At a tap factor of 1.0 and scaling factor of 1.0
+   there is a half effective capacitive
+   reactance connected between the
+   primary terminals of 2.920888e-004 uF or 1.089771e+007 Ohms.
+
+   Regardless of the tap factor, there is a half effective
+   capacitive reactance connected between the
+   secondary terminals of 3.846832e-003 uF or 8.274600e+005 Ohms.
+
+
+   Scaling Transformer
+   named: WF1TR1C
+   within the box named: (null)
+   in subsystem: #1
+   is assigned to Core #7
+
+   At a tap factor of 1.0 and scaling factor of 1.0
+   there is a half effective capacitive
+   reactance connected between the
+   primary terminals of 2.920888e-004 uF or 1.089771e+007 Ohms.
+
+   Regardless of the tap factor, there is a half effective
+   capacitive reactance connected between the
+   secondary terminals of 3.846832e-003 uF or 8.274600e+005 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr3_r"
+   named: RBKR_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   This model provides 3 single-phase VSC resistive breaker
+    branches contained within a subnetwork of the VSC network.
+   The subnetwork is connected to the VSC network at each end
+    of the breaker by a Bergeron line having a travel time of 1.428571e-006 seconds
+    equal to 1/2 of the small time-step size.
+    The User-specified inductance of each DT/2 line is   5.000000e-004 Henries.
+    The User-specified resistance of each DT/2 line is   0.000000e+000 Henries.
+    The resulting shunt capacitance of each DT/2 line is 4.081633e-009 Farads.
+    The User-specified ON  resistance of the main breaker is 1.000000e-002 Ohms.
+    The User-specified OFF resistance of the main breaker is 1.000000e+008 Ohms.
+   Pre-insertion breakers are enabled.
+    The User-specified ON  resistance of the pre-insertion branch is 1.000000e+002 Ohms.
+    The User-specified OFF resistance of the pre-insertion branch is 1.000000e+008 Ohms.
+
+
+  VSC component model of type "vsc_bkr_res1"
+   named: Test_fault_CSA1
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: ind_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   This branch contains a series inductor of 0.02 Henries
+   A damping resistance of 42000 Ohms
+    has been placed parallel to the inductor.
+
+  VSC component model of type "vsc_brc3"
+   named: Vsource_CSA1
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+
+  VSC component model of type "vsc_brc3"
+   named: Vsource_CSA4
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   VSC small-DT to large-DT interface T-line model
+   of type "vsc_ifctli1" and named: "SMLTAC_CSA2" 
+   within the BRIDGE named: "VALVE_CSA2"
+   in subsystem: #1
+   is assigned to Core #2
+   which is a NovaCor Rack
+
+     Data is User-specified in the rtds_vsc_IFCTLI1 icon:
+
+     Inductance of ground mode                  = 1.000000e-002 Henries
+     Resistance of ground mode                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of ground mode = 5.898240e-007 Farads
+
+     Inductance of Aerial modes                  = 9.900000e-003 Henries
+     Resistance of Aerial modes                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of Aerial modes = 5.957818e-007 Farads
+
+     When, as here, the line inductances and resistances
+     were User-specified in the model icon, then the
+     travel times for all modes is 1.28 large 
+     time-steps in this allNovaCor case
+     and Clarke mode-to-phase transformations are used.
+
+   VSC small-DT to large-DT interface T-line model
+   of type "vsc_ifctli1" and named: "SMLTAC_CSA3" 
+   within the BRIDGE named: "VALVE_CSA3"
+   in subsystem: #1
+   is assigned to Core #2
+   which is a NovaCor Rack
+
+     Data is User-specified in the rtds_vsc_IFCTLI1 icon:
+
+     Inductance of ground mode                  = 1.000000e-002 Henries
+     Resistance of ground mode                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of ground mode = 5.898240e-007 Farads
+
+     Inductance of Aerial modes                  = 9.900000e-003 Henries
+     Resistance of Aerial modes                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of Aerial modes = 5.957818e-007 Farads
+
+     When, as here, the line inductances and resistances
+     were User-specified in the model icon, then the
+     travel times for all modes is 1.28 large 
+     time-steps in this allNovaCor case
+     and Clarke mode-to-phase transformations are used.
+
+   VSC small-DT to large-DT interface T-line model
+   of type "vsc_ifctli1" and named: "STLT_CSA1" 
+   within the BRIDGE named: "VALVE_CSA1"
+   in subsystem: #1
+   is assigned to Core #1
+   which is a NovaCor Rack
+
+     Data is User-specified in the rtds_vsc_IFCTLI1 icon:
+
+     Inductance of ground mode                  = 1.000000e-002 Henries
+     Resistance of ground mode                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of ground mode = 5.898240e-007 Farads
+
+     Inductance of Aerial modes                  = 9.900000e-003 Henries
+     Resistance of Aerial modes                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of Aerial modes = 5.957818e-007 Farads
+
+     When, as here, the line inductances and resistances
+     were User-specified in the model icon, then the
+     travel times for all modes is 1.28 large 
+     time-steps in this allNovaCor case
+     and Clarke mode-to-phase transformations are used.
+
+   VSC small-DT to large-DT interface T-line model
+   of type "vsc_ifctli1" and named: "STLT_CSA2" 
+   within the BRIDGE named: "VALVE_CSA2"
+   in subsystem: #1
+   is assigned to Core #2
+   which is a NovaCor Rack
+
+     Data is User-specified in the rtds_vsc_IFCTLI1 icon:
+
+     Inductance of ground mode                  = 1.000000e-002 Henries
+     Resistance of ground mode                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of ground mode = 5.898240e-007 Farads
+
+     Inductance of Aerial modes                  = 9.900000e-003 Henries
+     Resistance of Aerial modes                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of Aerial modes = 5.957818e-007 Farads
+
+     When, as here, the line inductances and resistances
+     were User-specified in the model icon, then the
+     travel times for all modes is 1.28 large 
+     time-steps in this allNovaCor case
+     and Clarke mode-to-phase transformations are used.
+
+   VSC small-DT to large-DT interface T-line model
+   of type "vsc_ifctli1" and named: "STLT_CSA3" 
+   within the BRIDGE named: "VALVE_CSA3"
+   in subsystem: #1
+   is assigned to Core #2
+   which is a NovaCor Rack
+
+     Data is User-specified in the rtds_vsc_IFCTLI1 icon:
+
+     Inductance of ground mode                  = 1.000000e-002 Henries
+     Resistance of ground mode                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of ground mode = 5.898240e-007 Farads
+
+     Inductance of Aerial modes                  = 9.900000e-003 Henries
+     Resistance of Aerial modes                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of Aerial modes = 5.957818e-007 Farads
+
+     When, as here, the line inductances and resistances
+     were User-specified in the model icon, then the
+     travel times for all modes is 1.28 large 
+     time-steps in this allNovaCor case
+     and Clarke mode-to-phase transformations are used.
+
+   VSC small-DT to large-DT interface T-line model
+   of type "vsc_ifctli1" and named: "STLT_CSA4" 
+   within the BRIDGE named: "VALVE_CSA4"
+   in subsystem: #1
+   is assigned to Core #1
+   which is a NovaCor Rack
+
+     Data is User-specified in the rtds_vsc_IFCTLI1 icon:
+
+     Inductance of ground mode                  = 1.000000e-002 Henries
+     Resistance of ground mode                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of ground mode = 5.898240e-007 Farads
+
+     Inductance of Aerial modes                  = 9.900000e-003 Henries
+     Resistance of Aerial modes                  = 0.000000e+000 Ohms
+     Resulting Shunt capacitance of Aerial modes = 5.957818e-007 Farads
+
+     When, as here, the line inductances and resistances
+     were User-specified in the model icon, then the
+     travel times for all modes is 1.28 large 
+     time-steps in this allNovaCor case
+     and Clarke mode-to-phase transformations are used.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NA_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NB_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1NC_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PA_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PB_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "vsc_mmc5"
+   named: G1PC_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+   The VSC component represents 200
+   half-bridge submodules connected in series.
+   The VSC component alone is expected to require 330 processor 
+   clock cycles for execution on a GX750 IBM processor.
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA1N
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA1P
+   within the BRIDGE named: VALVE_CSA1
+   in subsystem: #1
+   is assigned to Core #1
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA2N
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA2P
+   within the BRIDGE named: VALVE_CSA2
+   in subsystem: #1
+   is assigned to Core #2
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA3N
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA3P
+   within the BRIDGE named: VALVE_CSA3
+   in subsystem: #1
+   is assigned to Core #2
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA4N
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+
+  VSC component model of type "trfs1ph"
+   named: T1PH_CSA4P
+   within the BRIDGE named: VALVE_CSA4
+   in subsystem: #1
+   is assigned to Core #1
+
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+     VSC component ordering 
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    For VSC Bridge named VALVE_CSA3 in subsystem 1,
+    following is the order of execution of VSC components
+    that have both named-signal input and named-signal output.
+    These components are referred to as "mid-list" components
+    because they come after components that have exclusively
+    named-signal output ( "prefix" components )
+    and before components that have exclusively
+    named-signal input ( "suffix" components ).
+
+    Model VALVE_CSA3, processor No. 1
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA3N
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA3P
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA3N
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA3P
+      VSC comp type:              ifctli1,  VSC comp name: SMLTAC_CSA3
+      VSC comp type:              ifctli1,  VSC comp name: STLT_CSA3
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA3N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA3P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA3N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA3P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA3N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA3P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA3N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA3P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA3N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA3P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA3N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA3P
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA3N
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA3P
+
+    For VSC Bridge named VALVE_CSA2 in subsystem 1,
+    following is the order of execution of VSC components
+    that have both named-signal input and named-signal output.
+    These components are referred to as "mid-list" components
+    because they come after components that have exclusively
+    named-signal output ( "prefix" components )
+    and before components that have exclusively
+    named-signal input ( "suffix" components ).
+
+    Model VALVE_CSA2, processor No. 1
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA2N
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA2P
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA2N
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA2P
+      VSC comp type:              ifctli1,  VSC comp name: SMLTAC_CSA2
+      VSC comp type:              ifctli1,  VSC comp name: STLT_CSA2
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA2N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA2P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA2N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA2P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA2N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA2P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA2N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA2P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA2N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA2P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA2N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA2P
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA2N
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA2P
+
+    For VSC Bridge named VALVE_CSA4 in subsystem 1,
+    following is the order of execution of VSC components
+    that have both named-signal input and named-signal output.
+    These components are referred to as "mid-list" components
+    because they come after components that have exclusively
+    named-signal output ( "prefix" components )
+    and before components that have exclusively
+    named-signal input ( "suffix" components ).
+
+    Model VALVE_CSA4, processor No. 1
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA4N
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA4P
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA4N
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA4P
+      VSC comp type:             vsc_brc3,  VSC comp name: Vsource_CSA4
+      VSC comp type:              ifctli1,  VSC comp name: STLT_CSA4
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA4N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA4P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA4N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA4P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA4N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA4P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA4N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA4P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA4N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA4P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA4N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA4P
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA4N
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA4P
+
+    For VSC Bridge named VALVE_CSA1 in subsystem 1,
+    following is the order of execution of VSC components
+    that have both named-signal input and named-signal output.
+    These components are referred to as "mid-list" components
+    because they come after components that have exclusively
+    named-signal output ( "prefix" components )
+    and before components that have exclusively
+    named-signal input ( "suffix" components ).
+
+    Model VALVE_CSA1, processor No. 1
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA1N
+      VSC comp type:           vsc_bkr3_r,  VSC comp name: RBKR_CSA1P
+      VSC comp type:         vsc_bkr_res1,  VSC comp name: Test_fault_CSA1
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA1N
+      VSC comp type:             vsc_brc3,  VSC comp name: ind_CSA1P
+      VSC comp type:             vsc_brc3,  VSC comp name: Vsource_CSA1
+      VSC comp type:              ifctli1,  VSC comp name: STLT_CSA1
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA1N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NA_CSA1P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA1N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NB_CSA1P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA1N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1NC_CSA1P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA1N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PA_CSA1P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA1N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PB_CSA1P
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA1N
+      VSC comp type:             vsc_mmc5,  VSC comp name: G1PC_CSA1P
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA1N
+      VSC comp type:              trfs1ph,  VSC comp name: T1PH_CSA1P
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+RISC CONTROLS COMPONENTS(proc 0) --> NovaCor Core #1 
+numberOfModels = 0
+
+
+RISC CONTROLS COMPONENTS(proc 1) --> NovaCor Core #2 
+numberOfModels = 0
+
+
+RISC CONTROLS COMPONENTS(proc 2) --> NovaCor Core #3 
+numberOfModels = 18
+
+Subsystem 1, Network Solution on core 3 Statistics:
+Number of nodes: 97
+Number of passed G values: 56
+Number of switched G overlays: 0
+Number of columns dynamically decomposed: 75
+
+
+
+RISC CONTROLS COMPONENTS(proc 3) --> NovaCor Core #4 
+numberOfModels = 3144
+
+    CPMAX = 0.480012, LMDANOM = 8.100000, RHOpu = 1.000000
+    CPMAX = 0.480012, LMDANOM = 8.100000, RHOpu = 1.000000
+
+RISC CONTROLS COMPONENTS(proc 4) --> NovaCor Core #5 
+numberOfModels = 2216
+
+
+RISC CONTROLS COMPONENTS(proc 5) --> NovaCor Core #6 
+numberOfModels = 39
+
+
+RISC CONTROLS COMPONENTS(proc 6) --> NovaCor Core #7 
+numberOfModels = 16
+
+
+  VSC NETWORK SOLUTION STATISTICS for processor number 1 (1toN) of Bridge Box "VALVE_CSA4".
+
+   On processor number 1 (1toN) of BB "VALVE_CSA4", the network solution for all of
+     the non-switched node groups solved using the inverse G-matrix
+     approach ( not W-matrix ) is expected to require 14 clocks
+     of execution time.
+     There are 3 voltages calculated on this processor in this way.
+     There are 3 factors stored on this processor for
+     the non-switched groups solved in this way.
+
+   On processor number 1 (1toN) of BB "VALVE_CSA4", the network solution for all of
+     the non-switched node groups solved using the W-matrix
+     approach ( not inverse G-matrix ) is expected to require 0 clocks
+     of execution time.
+     There are 16 voltages calculated on this processor in this way.
+     The non-switched groups solved by W-matrix contain 17 nodes in total.
+     There are 110 factors stored for the non-switched groups solved by W-matrix.
+     There are 41 factors stored for Li.
+     There are 69 factors stored for Ui_Di.
+
+   VSC NETWORK SOLUTION on Bridge_Box processor 1 (1toN):
+             Num Small Timesteps = 21
+             Block1 memory bytes = 904 initially loaded in L1 cache
+             Block2 memory bytes = 0 initially loaded in L2 cache
+
+
+  VSC NETWORK SOLUTION STATISTICS for processor number 1 (1toN) of Bridge Box "VALVE_CSA1".
+
+   On processor number 1 (1toN) of BB "VALVE_CSA1", the network solution for all of
+     the non-switched node groups solved using the inverse G-matrix
+     approach ( not W-matrix ) is expected to require 11 clocks
+     of execution time.
+     There are 2 voltages calculated on this processor in this way.
+     There are 2 factors stored on this processor for
+     the non-switched groups solved in this way.
+
+   On processor number 1 (1toN) of BB "VALVE_CSA1", the network solution for
+     switched node group number 2 (0toN) solved using the inverse G-matrix
+     approach ( not W-matrix ) is expected to require 8 clocks
+     of execution time. One of the nodes in this group is node number 3 (1toN)
+     There are 1 voltages calculated on this processor for the group.
+     The switched group contains 1 nodes.
+     The group is controlled by bits 0 to 0 (0toN) inclusive
+     in the 32-bit global switch control word.
+     The switched group has 2 pre-calculated sets of factors for the 2 possible states.
+     Each set of factors contains 1 factors.
+
+   On processor number 1 (1toN) of BB "VALVE_CSA1", the network solution for all of
+     the non-switched node groups solved using the W-matrix
+     approach ( not inverse G-matrix ) is expected to require 0 clocks
+     of execution time.
+     There are 16 voltages calculated on this processor in this way.
+     The non-switched groups solved by W-matrix contain 17 nodes in total.
+     There are 110 factors stored for the non-switched groups solved by W-matrix.
+     There are 41 factors stored for Li.
+     There are 69 factors stored for Ui_Di.
+
+   VSC NETWORK SOLUTION on Bridge_Box processor 1 (1toN):
+             Num Small Timesteps = 21
+             Block1 memory bytes = 896 initially loaded in L1 cache
+             Block2 memory bytes = 16 initially loaded in L2 cache
+
+
+  VSC NETWORK SOLUTION STATISTICS for processor number 1 (1toN) of Bridge Box "VALVE_CSA3".
+
+   On processor number 1 (1toN) of BB "VALVE_CSA3", the network solution for all of
+     the non-switched node groups solved using the inverse G-matrix
+     approach ( not W-matrix ) is expected to require 26 clocks
+     of execution time.
+     There are 3 voltages calculated on this processor in this way.
+     There are 9 factors stored on this processor for
+     the non-switched groups solved in this way.
+
+   On processor number 1 (1toN) of BB "VALVE_CSA3", the network solution for all of
+     the non-switched node groups solved using the W-matrix
+     approach ( not inverse G-matrix ) is expected to require 0 clocks
+     of execution time.
+     There are 17 voltages calculated on this processor in this way.
+     The non-switched groups solved by W-matrix contain 18 nodes in total.
+     There are 143 factors stored for the non-switched groups solved by W-matrix.
+     There are 55 factors stored for Li.
+     There are 88 factors stored for Ui_Di.
+
+   VSC NETWORK SOLUTION on Bridge_Box processor 1 (1toN):
+             Num Small Timesteps = 21
+             Block1 memory bytes = 1216 initially loaded in L1 cache
+             Block2 memory bytes = 0 initially loaded in L2 cache
+
+
+  VSC NETWORK SOLUTION STATISTICS for processor number 1 (1toN) of Bridge Box "VALVE_CSA2".
+
+   On processor number 1 (1toN) of BB "VALVE_CSA2", the network solution for all of
+     the non-switched node groups solved using the inverse G-matrix
+     approach ( not W-matrix ) is expected to require 26 clocks
+     of execution time.
+     There are 3 voltages calculated on this processor in this way.
+     There are 9 factors stored on this processor for
+     the non-switched groups solved in this way.
+
+   On processor number 1 (1toN) of BB "VALVE_CSA2", the network solution for all of
+     the non-switched node groups solved using the W-matrix
+     approach ( not inverse G-matrix ) is expected to require 0 clocks
+     of execution time.
+     There are 17 voltages calculated on this processor in this way.
+     The non-switched groups solved by W-matrix contain 18 nodes in total.
+     There are 143 factors stored for the non-switched groups solved by W-matrix.
+     There are 55 factors stored for Li.
+     There are 88 factors stored for Ui_Di.
+
+   VSC NETWORK SOLUTION on Bridge_Box processor 1 (1toN):
+             Num Small Timesteps = 21
+             Block1 memory bytes = 1216 initially loaded in L1 cache
+             Block2 memory bytes = 0 initially loaded in L2 cache

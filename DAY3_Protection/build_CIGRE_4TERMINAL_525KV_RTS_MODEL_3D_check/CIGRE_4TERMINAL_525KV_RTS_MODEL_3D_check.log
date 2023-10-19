@@ -1,0 +1,14 @@
+MESSAGES:
+
+Compiling CIGRE_4TERMINAL_525KV_RTS_MODEL_3D_check for RTDS rack 9...
+Nodes and Wires...
+
+RTDSPC version = 6.3.1
+=======================
+
+Using configuration file: C:\Users\rohankamattarc\Documents\RSCAD\HDWR\config_file_03.txt
+800) temp11,temp12,temp21,temp22: 1.000000 0.000000 1.000000 0.000000 
+800) temp11,temp12,temp21,temp22: 1.000000 0.000000 1.000000 0.000000 
+End of process. Peak memory usage = 35307520 bytes
+
+Compile completed successfully.
