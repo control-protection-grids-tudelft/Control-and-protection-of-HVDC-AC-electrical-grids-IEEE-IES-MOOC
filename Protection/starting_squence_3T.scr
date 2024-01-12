@@ -1,0 +1,29 @@
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0;
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale1" = 1.0;
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale12" = 1.0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Iarm_protection" = 0;
+
+Start;
+SUSPEND 10;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x1;
+SUSPEND 10;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x3;
+SUSPEND 10;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x7;
+SUSPEND 10;
+PushButton "Subsystem #1 : CTLs : Inputs : Start";
+SUSPEND 0.1;
+ReleaseButton "Subsystem #1 : CTLs : Inputs : Start";
+SUSPEND 5;
+PushButton "Subsystem #1 : CTLs : Inputs : DBlk";
+SUSPEND 0.093;
+ReleaseButton "Subsystem #1 : CTLs : Inputs : DBlk";
+SUSPEND 5;
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale1" = 815.0;
+SUSPEND 10;
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale12" = 815.0;
+SUSPEND 10;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Iarm_protection" = 1;
+

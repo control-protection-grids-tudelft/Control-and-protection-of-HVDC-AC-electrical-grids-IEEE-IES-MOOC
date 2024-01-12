@@ -1,0 +1,132 @@
+   Line Constants (.out ) output file.           
+   This file is over-written whenever the T-Line 
+   constants program is executed for this T-Line.
+     T-Line Constants Version = RTDS_1.0.4   
+ ================================================
+ ------------------------------------------------
+  Phase Domain Quantities at 0.001000 Hertz.
+ ------------------------------------------------
+ MATRICES INCLUDING ALL SIMULATED CONDUCTORS 
+ MATRIX DIMENSION = 3 
+
+    SERIES IMPEDANCE  (Z) matrix in Ohms/meter    
+  6.001134790e-006 +j  1.996191970e-008   9.956645299e-010 +j  1.505923617e-008   9.954453469e-010 +j  1.418821124e-008 
+  9.956645299e-010 +j  1.505923617e-008   6.001135076e-006 +j  1.996190028e-008   9.956645299e-010 +j  1.505923617e-008 
+  9.954453469e-010 +j  1.418821124e-008   9.956645299e-010 +j  1.505923617e-008   6.001134790e-006 +j  1.996191970e-008 
+
+    SHUNT  ADMITTANCE (Y) matrix in Siemens/meter 
+  1.000000000e-010 +j  1.420066726e-012   0.000000000e+000 +j  0.000000000e+000   0.000000000e+000 +j  0.000000000e+000 
+  0.000000000e+000 +j  0.000000000e+000   1.000000000e-010 +j  1.420066726e-012   0.000000000e+000 +j  0.000000000e+000 
+  0.000000000e+000 +j  0.000000000e+000   0.000000000e+000 +j  0.000000000e+000   1.000000000e-010 +j  1.420066726e-012 
+
+    LONG-LINE CORRECTED SERIES IMPEDANCE MATRIX in Ohms 
+  7.201361852e-002 +j  2.395430581e-004   1.194797460e-005 +j  1.807108393e-004   1.194534441e-005 +j  1.702585398e-004 
+  1.194797460e-005 +j  1.807108393e-004   7.201362194e-002 +j  2.395428250e-004   1.194797461e-005 +j  1.807108393e-004 
+  1.194534441e-005 +j  1.702585398e-004   1.194797461e-005 +j  1.807108393e-004   7.201361852e-002 +j  2.395430581e-004 
+
+    LONG-LINE CORRECTED SHUNT ADMITTANCE MATRIX in Siemens 
+  1.199999991e-006 +j  1.704080044e-008  -7.386635930e-019 +j -2.171915185e-017  -8.531075549e-019 +j -2.046763591e-017 
+ -7.385860448e-019 +j -2.171915063e-017   1.199999991e-006 +j  1.704080044e-008  -8.963622853e-019 +j -2.172412997e-017 
+ -8.531075549e-019 +j -2.046763470e-017  -8.962847371e-019 +j -2.172413118e-017   1.199999991e-006 +j  1.704080044e-008 
+
+ --------------------------------------------------------
+  NOTE: Prior to calculating Sequence and RXB information
+         the normal Y and Z matrices will have been      
+         further reduced if necessary by Kron reduction  
+         to effectively ground any remaining conductors  
+          that are NOT main power conductors.            
+         Such remaining conductors to be reduced         
+          would include:                                 
+           -- any overhead ground wires that are         
+                specified as being NOT actually grounded 
+                and thus NOT already reduced.            
+           -- any cable concentric conductors            
+                NOT already reduced.                     
+           -- any PIPE conductors                        
+                NOT already reduced.                     
+
+  NOTE: In Sequence matrices and RXB information         
+         sets of 3 overhead main conductors are located  
+         ahead of sets of 3 cable core main conductors.  
+         For this t-line there are: 
+           0 sets of 3 overhead   conductors and 
+           1 sets of 3 cable core conductors.
+
+ ------------------------------------------------
+  Sequence Y and Z matrices at 0.001000 Hertz.
+ ------------------------------------------------
+
+      Sequence to Phase Transformation Matrix:
+  5.773502692e-001 +j  0.000000000e+000   5.773502692e-001 +j  0.000000000e+000   5.773502692e-001 +j  0.000000000e+000 
+  5.773502692e-001 +j  0.000000000e+000  -2.886751346e-001 +j -5.000000000e-001  -2.886751346e-001 +j  5.000000000e-001 
+  5.773502692e-001 +j  0.000000000e+000  -2.886751346e-001 +j  5.000000000e-001  -2.886751346e-001 +j -5.000000000e-001 
+
+      Phase to Sequence Transformation Matrix:
+  5.773502692e-001 +j  0.000000000e+000   5.773502692e-001 +j  0.000000000e+000   5.773502692e-001 +j  0.000000000e+000 
+  5.773502692e-001 +j  0.000000000e+000  -2.886751346e-001 +j  5.000000000e-001  -2.886751346e-001 +j -5.000000000e-001 
+  5.773502692e-001 +j  0.000000000e+000  -2.886751346e-001 +j -5.000000000e-001  -2.886751346e-001 +j  5.000000000e-001 
+
+
+      Z Sequence impedance matrix [Ohms/m]:
+  6.003126068e-006 +j  4.949970228e-008   2.513535749e-010 +j -1.453131767e-010  -2.515216900e-010 +j -1.450219929e-010 
+ -2.515216900e-010 +j -1.450219929e-010   6.000139294e-006 +j  5.193018701e-009  -5.028665537e-010 +j  2.903891083e-010 
+  2.513535749e-010 +j -1.453131767e-010   5.029176216e-010 +j  2.903006561e-010   6.000139294e-006 +j  5.193018701e-009 
+
+      Y Sequence admittance matrix [Siemens/m]:
+  1.000000000e-010 +j  1.420066726e-012   3.231174268e-027 +j -3.231174268e-027   3.231174268e-027 +j  0.000000000e+000 
+  6.462348536e-027 +j  0.000000000e+000   1.000000000e-010 +j  1.420066726e-012   9.693522803e-027 +j -3.231174268e-027 
+  6.462348536e-027 +j -3.231174268e-027   9.693522803e-027 +j  0.000000000e+000   1.000000000e-010 +j  1.420066726e-012 
+
+
+      Z Sequence impedance matrix [Ohms] Long-Line Corrected:
+  7.203751386e-002 +j  5.939964592e-004   3.016242987e-006 +j -1.743758170e-006  -3.018260366e-006 +j -1.740263966e-006 
+ -3.018260366e-006 +j -1.740263966e-006   7.200167257e-002 +j  6.231624093e-005  -6.034398813e-006 +j  3.484669393e-006 
+  3.016242987e-006 +j -1.743758170e-006   6.035011639e-006 +j  3.483607980e-006   7.200167257e-002 +j  6.231624093e-005 
+
+      Y Sequence admittance matrix [Siemens] Long-Line Corrected:
+  1.199999991e-006 +j  1.704080039e-008  -3.685865111e-019 +j  1.991049584e-019   3.554033201e-019 +j  2.188409708e-019 
+  3.554420942e-019 +j  2.188409708e-019   1.199999991e-006 +j  1.704080046e-008   6.148407644e-019 +j -3.324878322e-019 
+ -3.686252852e-019 +j  1.991049584e-019  -8.288737479e-019 +j -5.111200704e-019   1.199999991e-006 +j  1.704080046e-008 
+
+ ------------------------------------------------
+  RXB FORMATTED DATA at 0.001000 Hertz.
+ ------------------------------------------------
+    Line Length = 1.200000e+004 meters.
+    Susceptances are the total for the entire line.
+
+  Positive Sequence (Long-Line Corrected) of Circuit 1
+  ................. 
+   Resistance      Rsq   [Ohms]     7.200167257e-002 
+   Reactance       Xsq   [Ohms]     6.231624093e-005 
+   Susceptance     Bsq   [Siemens]  1.704080046e-008 
+   Surge Impedance Zcsq  [Ohms]     6.047218046e+001 
+
+  Zero     Sequence (Long-Line Corrected) of Circuit 1
+  ................. 
+   Resistance      Rsq   [Ohms]     7.203751386e-002 
+   Reactance       Xsq   [Ohms]     5.939964592e-004 
+   Susceptance     Bsq   [Siemens]  1.704080039e-008 
+   Surge Impedance Zcsq  [Ohms]     1.867011244e+002 
+
+  Positive Sequence of Circuit 1
+  ................. 
+   Resistance      Rsq   [Ohms]     7.200167153e-002 
+   Reactance       Xsq   [Ohms]     6.231622442e-005 
+   Susceptance     Bsq   [Siemens]  1.704080071e-008 
+   Surge Impedance Zcsq  [Ohms]     6.047217200e+001 
+
+  Zero     Sequence of Circuit 1
+  ................. 
+   Resistance      Rsq   [Ohms]     7.203751282e-002 
+   Reactance       Xsq   [Ohms]     5.939964274e-004 
+   Susceptance     Bsq   [Siemens]  1.704080071e-008 
+   Surge Impedance Zcsq  [Ohms]     1.867011176e+002 
+
+ ------------------------------------------------
+  Minimum Time delay for a Mode or               
+    Propogation Group and recommended time step. 
+ ------------------------------------------------
+
+    Minimum Time delay for the Line:      66.409287 [uSec]
+    Recommended Time Step:                 6.640929 [uSec]
+
