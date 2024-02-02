@@ -1,0 +1,154 @@
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x0;
+MasterPlotLockState = 0;
+
+int a=1;
+
+// CSA1
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA1P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA1N" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA1P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA1N" = 0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA1" = 0;
+// CSA2
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA2P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA2N" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA2P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA2N" = 0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA2" = 0;
+// CSA3
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA3P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA3N" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA3P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA3N" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA3" = 0;
+// CSA4
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA4P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA4N" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA4P" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA4N" = 0;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA4" = 0;
+//SetSlider "Subsystem #1 : CTLs : Inputs : Pref_CSA4P" = -0.0;
+// WF 1
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale1" = 1;
+//Protection 
+SetSwitch "Subsystem #1 : CTLs : Inputs : Iarm_protection" = 0;
+
+Start;
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA1P" = 1;
+SUSPEND 0.1;
+//savefile(1);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA1N" = 1;
+SUSPEND 0.1;
+//savefile(2);
+SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA1" = 7;
+SUSPEND 0.1;
+//savefile(3);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA1P" = 1;
+SUSPEND 0.1;
+//savefile(4);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA1N" = 1;
+SUSPEND 0.1;
+//savefile(5);
+SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA2" = 7;
+SUSPEND 0.1;
+//savefile(6);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA2P" = 1;
+SUSPEND 0.1;
+//savefile(7);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA2N" = 1;
+SUSPEND 0.1;
+//savefile(8);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA2P" = 1;
+SUSPEND 0.1;
+//savefile(9);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA2N" = 1;
+SUSPEND 0.1;
+//savefile(10);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA3" = 7;
+SUSPEND 0.1;
+//savefile(11);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA3P" = 1;
+SUSPEND 0.1;
+//savefile(12);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA3N" = 1;
+SUSPEND 0.1;
+//savefile(13);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA3P" = 1;
+SUSPEND 0.1;
+//savefile(14);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA3N" = 1;
+SUSPEND 0.1;
+//savefile(15);
+PushButton "Subsystem #1 : CTLs : Inputs : Start";
+SUSPEND 0.139;
+ReleaseButton "Subsystem #1 : CTLs : Inputs : Start";
+SUSPEND 0.1;
+//savefile(16);
+
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA4P" = 1;
+SUSPEND 0.1;
+//savefile(17);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKAUX_CSA4N" = 1;
+SUSPEND 0.1;
+//savefile(18);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA4P" = 1;
+SUSPEND 0.1;
+//savefile(19);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRKMAIN_CSA4N" = 1;
+SUSPEND 0.1;
+//savefile(20);
+SetSlider "Subsystem #1 : CTLs : Inputs : VDCref" = 0.8;
+SUSPEND 0.1;
+//savefile(21);
+
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x1;
+SUSPEND 0.1;
+//savefile(22);
+
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x3;
+SUSPEND 0.1;
+//savefile(23);
+//SetSwitch "Subsystem #1 : CTLs : Inputs : BRK_CSA4" = 7;
+SUSPEND 0.1;
+//savefile(24);
+
+
+PushButton "Subsystem #1 : CTLs : Inputs : DBlk";
+SUSPEND 0.1;
+ReleaseButton "Subsystem #1 : CTLs : Inputs : DBlk";
+SUSPEND 0.2;
+//savefile(25);
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x7;
+SUSPEND 0.1;
+//savefile(26);
+
+SetSlider "Subsystem #1 : CTLs : Inputs : VDCref" = 1;
+SUSPEND 0.1;
+//savefile(27);
+
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale1" = 407.5;
+SUSPEND 0.1;
+
+//savefile(29);
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0xF;
+
+
+SUSPEND 0.1;
+//savefile(36);
+SetSwitch "Subsystem #1 : CTLs : Inputs : Enersisatio" = 0x1F;
+SUSPEND 0.1;
+//savefile(37);
+
+SUSPEND 0.1;
+//savefile(38);
+SetSlider "Subsystem #1 : CTLs : Inputs : Scale1" = 815.0;
+SUSPEND 0.1;
+
+SetSwitch "Subsystem #1 : CTLs : Inputs : Iarm_protection" = 1;
+
+function savefile(int a) 
+{ 
+fprintf(stdmsg,"Saving plot data for Case Number %d\n",a);
+SavePlotToCSV "Starting_sequence_plot","C:\PhD\2022-23\March23\CSE_Paper\start_seq\Plotx"::itoa(a)::".csv";
+return();
+}
