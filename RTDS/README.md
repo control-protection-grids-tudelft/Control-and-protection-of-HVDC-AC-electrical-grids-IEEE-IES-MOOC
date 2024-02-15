@@ -6,9 +6,9 @@ Real-time Protection of the MMC-based multi-terminal HVDC electrical grids with 
 
 There are two libraries:
 
--[Advanced controllers library](/RTDS/Control) which follows the tutorial about comparison of classical and advanced controllers for the MMC-based HVDC grids. The description of the tutotials is given [here](/RTDS/Control/Advanced Controllers.pdf).
+-[Advanced controllers library](/RTDS/Control) which follows the tutorial about comparison of classical and advanced controllers for the MMC-based HVDC grids. The description of the tutotials is given [here](/RTDS/Control/Advanced%20Controllers.pdf).
 
--[Protection library](/RTDS/Protection) which follows the tutorial about [fault identification](/RTDS/Protection/Identification.pdf) and [fault location](RTDS/Protection/Location.pdf) for the MMC-based HVDC grids. 
+-[Protection library](/RTDS/Protection) which follows the tutorial about [fault identification](/RTDS/Protection/Identification.pdf) and [fault location](/RTDS/Protection/Location.pdf) for the MMC-based HVDC grids. 
 
 
 For more information about the models, please refer to: https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models.
