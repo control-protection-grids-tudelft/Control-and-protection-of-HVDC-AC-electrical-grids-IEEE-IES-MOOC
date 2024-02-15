@@ -1,10 +1,2 @@
-# HVDC-based RTDS models
-Real-time Protection of the MMC-based multi-terminal HVDC electrical grids with North Sea ratings.
-
-message: If you use this software, please cite it using these metadata.
-
-
-Collaborators:
-  - Vaibhav Nougain
-  - Ajay Shetgaonkar
-  - Aleksandra Lekić
+# Tutorials and material for lectures in course EE4545 and MOOC Control and protection of HVDC/AC electrical grids.
+### Course responsible: A. Lekić, email: A.Lekic@tudelft.nl
