@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jan 21 13:56:44 2021
+
+@author: alekic
+"""
+
 #! /usr/bin/python
 
 from pylab import *
