@@ -6,20 +6,20 @@ There are 4 different libraries:
 -[A1 MMC Control Design](/MATLAB/A1%20MMC%20control%20design) models following the lectures of modules C1 and C2 of the MOOC. These files rely on the generalized MMC model [[1]](#1) and
 the control design described in [[2]](#2) and [[3]](#3). Using these files is formulated Assignment 1.
 
-Author: A. Lekić
+Files created by: A. Lekić
 
 -[A2 MTDC Control](/MATLAB/A2%20MTDC%20control) is MATLAB/Simulink library following MOOC's module C2. These files represent use of different control strategies
 for controlling the MTDC electrical grid. It is based on the publication [[4]](#4). The [Assignment 2](/MATLAB/A2%20MTDC%20control/Assignment%202%20-%20MTDC%20controls.pdf) uses this library.
  
-Author: M. Aghahadi 
+Files created by: M. Aghahadi 
  
 -[A3 MTDC Protection](/MATLAB/A3%20MTDC%20Protection)
 
-Author: V. Nougain
+Files created by: V. Nougain
 
 -[A4 DC links in distribution networks](/MATLAB/A4%20DC%20links%20in%20distribution%20networks)
 
-Author: M. Barragan
+Files created by: M. Barragan
 
 ## References
 <a id="1">[1]</a>
