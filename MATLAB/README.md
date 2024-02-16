@@ -4,7 +4,7 @@
 There are 4 different libraries:
 
 -[A1 MMC Control Design](/MATLAB/A1%20MMC%20control%20design) models following the lectures of modules C1 and C2 of the MOOC. These files rely on the generalized MMC model [[1]](#1) and
-the control design described in [[2]](#2) and [[3]](#3). Using these files is formulated [Assignment 1](/MATLAB/A1%20MMC%20control%20design/Assignment 1%202%20-%20MMC%20design%20and%20control.pdf).
+the control design described in [[2]](#2) and [[3]](#3). Using these files is formulated [Assignment 1](/MATLAB/A1%20MMC%20control%20design/Assignment%201%20-%20MMC%20design%20and%20control.pdf).
 
 Files created by: A. Lekić
 
