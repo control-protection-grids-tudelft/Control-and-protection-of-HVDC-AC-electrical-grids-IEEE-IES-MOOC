@@ -1,3 +1,5 @@
+%% CREATED BY: A. Lekić, TU Delft
+
 %close all
 clc
 clear all
@@ -141,10 +143,6 @@ vMDeltaZd_ref = 0;
 vMDeltaZq_ref = 0;
 
 x0 = 0.001 * ones(num_var,1); % initial condition
-% x0(1) = Id; x0(2) = Iq;
-% x0(5) = Pdc/3/Vdc_ref;
-% x0(12) = Vdc_ref;
-% x0(end-1) = Vdc_ref;
 t0 = 0;
 C = [];
 T0 = 0.5; % stop simulation time
@@ -200,3 +198,4 @@ title('p')
 subplot(212)
 plot(t, q, 'b')
 title('q')
+
