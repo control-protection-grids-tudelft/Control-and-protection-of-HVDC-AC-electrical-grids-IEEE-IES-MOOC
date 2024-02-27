@@ -6,5 +6,5 @@ In this folder can be found the tutorial for running the simulation with [OPAL-R
 
 -[Back-to-back MMC library](/OPAL-RT/BTB_MMC) which follows the tutorial about the design of the back-to-back MMC to be run on OPAL-RT.
 
--[Grid formin and grid following VSC library](/OPAL-RT/GFM_GFL_MMC) which follows the tutorial about the design of grid forming/grid following controlled VSC to be run in OPAL-RT.
+-[Grid formin and grid following VSC library](/OPAL-RT/GFM_GFL_VSC) which follows the tutorial about the design of grid forming/grid following controlled VSC to be run in OPAL-RT.
 
