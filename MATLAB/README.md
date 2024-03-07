@@ -13,7 +13,7 @@ for controlling the MTDC electrical grid. It is based on the publication [[4]](#
  
 Files created by: M. Aghahadi 
  
--[A3 MTDC Protection](/MATLAB/A3%20MTDC%20Protection)
+-[A3 MTDC Protection](/MATLAB/A3%20MTDC%20Protection) introduces the concept of protection of low voltage DC system. Starting with identification of the fault to locating the distance of the fault with both single-terminal and double-terminal fault location methods as described in [[5]](#5)-[[6]](#6) . 
 
 Files created by: V. Nougain
 
@@ -34,3 +34,7 @@ of Electrical Power & Energy Systems, 143, 108456.
 
 <a id="4">[4]</a> Aghahadi, M., Piegari, L., Lekić, A., & Shetgaonkar, A. (2022, October). Sliding Mode Control of the MMC-based Power System. In IECON 2022–48th Annual Conference 
 of the IEEE Industrial Electronics Society (pp. 1-6). IEEE.
+
+<a id="5">[5]</a> V. Nougain, S. Mishra, G. S. Misyris and S. Chatzivasileiadis, "Multiterminal DC Fault Identification for MMC-HVDC Systems Based on Modal Analysis—A Localized Protection Scheme," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 9, no. 6, pp. 6650-6661, Dec. 2021, doi: 10.1109/JESTPE.2021.3068800.
+
+<a id="6">[6]</a> V. Nougain, S. Mishra, S. S. Nag and A. Lekić, "Fault Location Algorithm for Multi-Terminal Radial Medium Voltage DC Microgrid," in IEEE Transactions on Power Delivery, vol. 38, no. 6, pp. 4476-4488, Dec. 2023, doi: 10.1109/TPWRD.2023.3318689.
