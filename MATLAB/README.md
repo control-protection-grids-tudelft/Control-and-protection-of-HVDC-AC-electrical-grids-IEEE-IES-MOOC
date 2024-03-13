@@ -13,11 +13,12 @@ for controlling the MTDC electrical grid. It is based on the publication [[4]](#
  
 Files created by: M. Aghahadi 
  
--[A3 MTDC Protection](/MATLAB/A3%20MTDC%20Protection)
+-[A3 MTDC Protection](/MATLAB/A3%20MTDC%20Protection) is MATLAB/Simulink library following MOOC's module C3. These files represent ...
 
 Files created by: V. Nougain
 
--[A4 DC links in distribution networks](/MATLAB/A4%20DC%20links%20in%20distribution%20networks)
+-[A4 DC links in distribution networks](/MATLAB/A4%20DC%20links%20in%20distribution%20networks) is MATLAB/Simulink library following MOOC's module C4. These files represent distribution network DC link control. 
+It is based on the publication [[5]](#5). 
 
 Files created by: M. Barragan
 
@@ -34,3 +35,7 @@ of Electrical Power & Energy Systems, 143, 108456.
 
 <a id="4">[4]</a> Aghahadi, M., Piegari, L., Lekić, A., & Shetgaonkar, A. (2022, October). Sliding Mode Control of the MMC-based Power System. In IECON 2022–48th Annual Conference 
 of the IEEE Industrial Electronics Society (pp. 1-6). IEEE.
+
+<a id="5">[5]</a> F. d. P. Garc ́ıa-L ́opez, M. Barrag ́an-Villarejo, A. Marano-Marcolini, and J. M. Maza-Ortega, “Performance
+assessment of flexible links in distribution networks using a detailed power losses model,” IEEE Open Access
+Journal of Power and Energy, 2023.
