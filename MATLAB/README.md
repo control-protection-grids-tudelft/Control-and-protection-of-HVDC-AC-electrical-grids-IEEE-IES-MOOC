@@ -1,5 +1,5 @@
 # MATLAB codes
-### Codes for lectures in course EE4545 and MOOC Control and protection of HVDC/AC electrical grids.
+### Codes for lectures in IEEE IES MOOC Control and protection of HVDC/AC electrical grids.
  
 There are 4 different libraries:
 

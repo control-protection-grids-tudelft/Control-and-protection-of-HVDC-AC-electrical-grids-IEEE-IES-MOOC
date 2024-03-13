@@ -1,6 +1,6 @@
 # Python PE converters codes
 ### Author: A. Lekić, email: A.Lekic@tudelft.nl
-### Codes for lectures in course EE4545 and MOOC Control and protection of HVDC/AC electrical grids.
+### Codes for lectures in course IEEE IES MOOC Control and protection of HVDC/AC electrical grids.
  
  These codes were used only to create the time domain pictures.
  
