@@ -4,3 +4,4 @@
 The course has received funding by the from the European Union’s HORIZON-WIDERA-2021-ACCESS-03 under grant agreement No. 101079200, and from the IEEE IES.
 
 ![alt text](/pictures/sunrise-logo.jpeg?raw=true)
+![alt text](/pictures/ies-logo.png?raw=true)
