@@ -11,3 +11,9 @@ The course material is availevable under MIT license. For the (re-)use of the co
 ```
 "Control and protection of HVDC/AC electrical grids," A. Lekić, IEEE IES MOOC, 2024.
 ``` 
+
+Additionally, in case of using RSCAD/RTDS developed models, refer to the paper.
+```
+A. Shetgaonkar, T. Karmokar, M. Popov, and A. Lekić, “Enhanced real-time multi-terminal
+HVDC power system benchmark models with performance evaluation strategies,” CIGRE Science & Engineering, vol. 32, pp. 1–29, 2024
+```
