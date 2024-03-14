@@ -9,7 +9,7 @@ The course has received funding from the European Union’s HORIZON-WIDERA-2021-
 
 The course material is availevable under MIT license. For the (re-)use of the content and libraries, please cite the course as:
 ```
-"Control and protection of HVDC/AC electrical grids," A. Lekić, IEEE IES MOOC, 2024.
+"Control and protection of HVDC/AC electrical grids," A. Lekić, A. Shekhar, and V. Nougain, IEEE IES MOOC, 2024.
 ``` 
 
 Additionally, in case of using RSCAD/RTDS developed models, refer to the paper.
