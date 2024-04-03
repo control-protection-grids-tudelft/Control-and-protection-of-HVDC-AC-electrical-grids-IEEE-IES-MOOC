@@ -6,7 +6,7 @@ Real-time Protection of the MMC-based multi-terminal HVDC electrical grids with 
 
 For more information about the models, please refer to: https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models.
 
-
+The introduction to RSCAD/RTDS can be found in the [reader](/Readers/Reader.pdf).
 
 There are two libraries:
 
