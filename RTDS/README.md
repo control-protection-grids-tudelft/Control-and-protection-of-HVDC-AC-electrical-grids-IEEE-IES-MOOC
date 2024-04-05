@@ -1,6 +1,6 @@
 # HVDC-based RTDS models
 ### Authors: V. Nougain, A. Shetgaonkar, and A. Lekić, emails: {V.Nougain, A.D.Shetgaonkar, A.Lekic}@tudelft.nl
-### Codes for lectures in course EE4545 and MOOC Control and protection of HVDC/AC electrical grids.
+### Codes for lectures in MOOC Control and protection of HVDC/AC electrical grids.
  
 Real-time Protection of the MMC-based multi-terminal HVDC electrical grids with North Sea ratings. These libraries are based on the paper [[1]](#1), which is used as the basis.
 
