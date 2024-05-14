@@ -18,4 +18,4 @@ Additionally, in case of using RSCAD/RTDS developed models, refer to the paper.
 A. Shetgaonkar, T. Karmokar, M. Popov, and A. Lekić, “Enhanced real-time multi-terminal
 HVDC power system benchmark models with performance evaluation strategies,” CIGRE Science & Engineering, vol. 32, pp. 1–29, 2024
 ```
-![alt text](/pictures/course_QR.png?raw=true)
+![alt text](/pictures/Course_QR.png?raw=true)
