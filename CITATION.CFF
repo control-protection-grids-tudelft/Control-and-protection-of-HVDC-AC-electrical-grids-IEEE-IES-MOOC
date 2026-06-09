@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Majstorović"
+  given-names: "Milovan"
+  orcid: "https://orcid.org/0000-0002-0548-5399"
+- family-names: "Brković"
+  given-names: "Bogdan"
+  orcid: "https://orcid.org/0000-0001-6827-4989"
+- family-names: "Nougain"
+  given-names: "Vaibhav"
+  orcid: "https://orcid.org/0000-0002-8401-6979"
+- family-names: "Ristić"
+  given-names: "Leposava"
+  orcid: "https://orcid.org/0000-0003-4474-8486"
+- family-names: "Lekić"
+  given-names: "Aleksandra"
+  orcid: "https://orcid.org/0000-0003-2727-0767"
+title: "Deadbeat-based Control for MMC-HVDC Power Systems with and without Adaptiveness"
+version: v1.0
+doi: 10.5281/zenodo.18834993
+date-released: 2026-03-02
+url: "https://github.com/control-protection-grids-tudelft/SUNRISE_MPC"
