@@ -25,4 +25,4 @@ HVDC power system benchmark models with performance evaluation strategies,” CI
 - A. Shetgaonkar
 - L. Liu
 - M. Aghahadi
-- M. Barragan
+- M. Barragan-Villarejo
