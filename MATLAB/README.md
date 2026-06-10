@@ -19,7 +19,7 @@ fault to locating the distance of the fault with both single-terminal and double
 
 Files created by: V. Nougain
 
--[A4 DC links in distribution networks](/MATLAB/A4%20DC%20links%20in%20distribution%20networks) is MATLAB/Simulink library following MOOC's module C4. These files represent distribution network DC link control. 
+-[A4 DC links in distribution networks](/MATLAB/T4%20DC%20links%20in%20distribution%20networks) is MATLAB/Simulink library following MOOC's module C4. These files represent distribution network DC link control. 
 It is based on the publication [[7]](#7). 
 
 Files created by: M. Barragan
