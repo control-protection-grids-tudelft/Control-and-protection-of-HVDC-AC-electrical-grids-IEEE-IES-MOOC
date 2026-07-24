@@ -1,4 +1,5 @@
-[![alt text](https://zenodo.org/badge/667398010.svg)](https://zenodo.org/doi/10.5281/zenodo.10828892)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10828893.svg)](https://doi.org/10.5281/zenodo.10828893)
+
 # Control and protection of HVDC/AC electrical grids
 ## Tutorials and material for lectures, practicums and assignments
 ### Course responsible: A. Lekić, email: A.Lekic@tudelft.nl
